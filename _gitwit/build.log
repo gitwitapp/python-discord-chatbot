@@ -1,0 +1,18 @@
+Initialized empty Git repository in /root/discord-chatbot-written-in-python-that/.git/
+[main (root-commit) 0442043] Initial commit
+[main 54f037c] 👷🏼 Add .gitignore file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitignore
+/app/build.sh: line 13: apk: command not found
+/app/build.sh: line 14: pip3: command not found
+On branch main
+nothing to commit, working tree clean
+/app/build.sh: line 19: pip3: command not found
+On branch main
+nothing to commit, working tree clean
+[main 54aaaca] 👷🏼 Create Discord bot script
+ 1 file changed, 18 insertions(+)
+ create mode 100644 bot/bot.py
+[main 1d826f1] 👷🏼 Create README.md file
+ 1 file changed, 14 insertions(+)
+ create mode 100644 README.md
